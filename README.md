@@ -4,13 +4,6 @@
 
 ---
 
-### Currently Working On
-
-- Customer analytics & churn prediction
-- AI-driven recommendation systems (skincare, e-commerce)
-- Retail performance dashboards with Power BI & DAX
-- NLP pipelines for customer review intelligence
-
 ### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
