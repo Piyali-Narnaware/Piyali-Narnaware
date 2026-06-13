@@ -8,13 +8,13 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![SAP S/4HANA](https://img.shields.io/badge/SAP%20S%2F4HANA-0FAAFF?logo=sap&logoColor=white)
 
 ---
 
@@ -22,13 +22,13 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**Skincare RAG System**](https://github.com/Piyali-Narnaware/Skincare-RAG-System) | RAG pipeline for natural-language skincare queries — sentiment analysis, vector search, T5 generation | Python, ChromaDB, Transformers |
-| [**Loan Default Prediction**](https://github.com/Piyali-Narnaware/Loan-Default-Prediction) | Deep learning classifier with 97% recall — SMOTEENN, TensorFlow | Python, TensorFlow, scikit-learn |
-| [**AI Skincare Recommender**](https://github.com/Piyali-Narnaware/AI-based-Skincare-routine-recommendation) | Random Forest + Streamlit — predicts 5 skin traits from a 13-question quiz | Python, scikit-learn, Streamlit |
-| [**E-Commerce Database & BI**](https://github.com/Piyali-Narnaware/E-commerce) | Normalised SQLite schema + Power BI dashboard for 100k-order dataset | SQLite, Power BI, Python |
-| [**Co-op Retail Analytics**](https://github.com/Piyali-Narnaware/Coop-Retail-Analysis-25-26) | Multi-page Power BI dashboard analysing revenue, membership, and operations | Power BI, DAX, Python |
-| [**London Bike Hire — COVID Analysis**](https://github.com/Piyali-Narnaware/London-Bike-Hire-Demand-Analysis-) | Regression & ANOVA on 13 years of TfL bike data during COVID | R, ggplot2, forecast |
-| [**Low-Income Household Analysis**](https://github.com/Piyali-Narnaware/London-Low-Income-Household-Analysis) | Statistical analysis of child poverty across 32 London boroughs (2014–2021) | R, tidyverse |
+| [**Skincare RAG System**](https://github.com/Piyali-Narnaware/Skincare-RAG-System) | AI-powered skincare question-answering system that combines vector search, sentiment analysis and retrieval-augmented generation to deliver personalised skincare insights from product reviews and ingredient data. | Python, ChromaDB, Transformers |
+| [**Loan Default Prediction**](https://github.com/Piyali-Narnaware/Loan-Default-Prediction) | Predictive analytics model designed to identify high-risk loan applicants and support risk-based decision making. Achieved 97% recall using TensorFlow and class imbalance handling techniques. | Python, TensorFlow, scikit-learn |
+| [**AI Skincare Recommender**](https://github.com/Piyali-Narnaware/AI-based-Skincare-routine-recommendation) | Machine learning recommendation system that predicts skin characteristics and generates personalised skincare recommendations based on user responses, ingredient suitability and product scoring. | Python, scikit-learn, Streamlit |
+| [**E-Commerce Database & BI**](https://github.com/Piyali-Narnaware/E-commerce) | End-to-end e-commerce analytics project involving database design, ETL, SQL analysis and Power BI reporting to evaluate product performance, customer purchasing behaviour and revenue trends. | SQLite, Power BI, Python |
+| [**Co-op Retail Analytics**](https://github.com/Piyali-Narnaware/Coop-Retail-Analysis-25-26) | Interactive Power BI dashboard analysing sales performance, customer membership behaviour, category contribution and store operations to support data-driven retail decision making. | Power BI, DAX, Python |
+| [**London Bike Hire Demand Analysis**](https://github.com/Piyali-Narnaware/London-Bike-Hire-Demand-Analysis-) | Behavioural demand analysis of London bike hire usage before, during and after COVID-19 using statistical modelling, regression analysis and time-series visualisation. | R, ggplot2, forecast |
+| [**Low-Income Household Analysis**](https://github.com/Piyali-Narnaware/London-Low-Income-Household-Analysis) | Statistical analysis of children living in low-income households across London boroughs using R, data visualisation and hypothesis testing to identify geographical variation and trends. | R, tidyverse |
 
 ---
 
