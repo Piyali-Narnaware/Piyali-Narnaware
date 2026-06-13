@@ -39,4 +39,4 @@ Business Analytics graduate from Warwick Business School with experience in cust
 
 ---
 
-*Open to collaboration on analytics, ML, and data engineering projects.*
+*Open to collaboration on business analytics, customer insights, dashboarding, forecasting and data-driven decision-making projects.*
