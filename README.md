@@ -1,6 +1,6 @@
 # Hi, I'm Piyali Narnaware 👋
 
-**Data & Analytics Professional** — turning raw data into business decisions through statistical modelling, machine learning, and interactive dashboards.
+Business Analytics graduate from Warwick Business School with experience in customer analytics, forecasting, KPI reporting and commercial performance analysis. Passionate about using data to understand customer behaviour, improve decision-making and solve real-world business problems.
 
 ---
 
